@@ -25,7 +25,7 @@ You enter the realm of unknown. Your circumstances lead to attaining the power t
 - Space Castle
 
 <p>
-  <a href="https://discord.gg/tfdMJDF"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
+  Come hang out with us: <a href="https://discord.gg/tfdMJDF"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
 </p>
 
 Check out SpaceCastle: www.spacecastlemusic.com
